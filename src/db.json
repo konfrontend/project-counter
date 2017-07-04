@@ -1,0 +1,40 @@
+{
+	"projects": {
+		"Project name": {
+			"Global": {
+				"Navigation": {
+					"Planned": 10
+				},
+				"UI": {
+					"Planned": 5
+				}
+			},
+			"Inegration": {
+				"ACF": {
+					"Planned": 20
+				},
+				"PODS": {
+					"Planned": 10
+				}
+			}
+		},
+		"Another project": {
+			"Global": {
+				"Setup": {
+					"Planned": 10
+				},
+				"Header": {
+					"Planned": 5
+				}
+			},
+			"Page": {
+				"About": {
+					"Planned": 50
+				},
+				"Home": {
+					"Planned": 20
+				}
+			}
+		}
+	}
+}
